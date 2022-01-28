@@ -2,6 +2,8 @@ First Commit: Converted files for usage with pre-train DAMSM model. Notes:
 1. Manually edit the config.py file to correspond with the YAML you wish to use. 
 2. If you have a 0-index tensor, remove the [0] corresponding to train/eval.
 
+Original Source: https://github.com/taoxugit/AttnGAN
+
 # AttnGAN (Python 3, Pytorch 1.0)
 
 Pytorch implementation for reproducing AttnGAN results in the paper [AttnGAN: Fine-Grained Text to Image Generation
